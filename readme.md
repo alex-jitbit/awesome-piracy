@@ -177,6 +177,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+- [Streisand VPN](https://github.com/StreisandEffect/streisand) Quick to set up VPN with scripts for all major cloud providers
 
 ## Browser Extensions
 - [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
